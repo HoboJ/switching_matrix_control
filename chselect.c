@@ -2,7 +2,7 @@
  * 
  * T. Hennessy
  *
- * Description: 
+ * Description: Control for homemade audio switching matrix made in a FPGA.
  */
 
 #include <stdio.h>
